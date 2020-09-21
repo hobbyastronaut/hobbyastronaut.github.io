@@ -13,6 +13,8 @@ Welcome to hobbyastronaut's documentation!
 Projects
 ========
 
+.. note:: This is a note
+
 .. _a link: https://hobbyastronaut.github.io/sphinxdocutest/
 
 
@@ -20,5 +22,4 @@ Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
