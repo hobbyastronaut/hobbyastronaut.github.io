@@ -10,6 +10,10 @@ Welcome to hobbyastronaut's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+Projects
+========
+
+.. _a link: https://hobbyastronaut.github.io/sphinxdocutest/
 
 
 Indices and tables
