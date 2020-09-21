@@ -13,9 +13,10 @@ Welcome to hobbyastronaut's documentation!
 Projects
 ========
 
-.. note:: This is a note
+.. note:: This is a note to point to
 
-.. _a link: https://hobbyastronaut.github.io/sphinxdocutest/
+hello `test <https://hobbyastronaut.github.io/sphinxdocutest/>`_
+
 
 
 Indices and tables
